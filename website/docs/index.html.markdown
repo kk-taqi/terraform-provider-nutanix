@@ -34,7 +34,7 @@ explained below:
 
 ### Static credentials
 
-Static credentials can be provided by adding the fowlloing attributes in-line in the Nutanix provider block:
+Static credentials can be provided by adding the following attributes in-line in the Nutanix provider block:
 
 Usage:
 
